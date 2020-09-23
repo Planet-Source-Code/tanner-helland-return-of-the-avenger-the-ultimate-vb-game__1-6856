@@ -1,0 +1,5 @@
+Form1 = 66, 66, 521, 451, C, 44, 44, 521, 492, C
+Miscellaneous_Module = 66, 66, 403, 404, 
+Game_Logic_Module = 154, 154, 530, 500, 
+ScreenRes_Module = 0, 0, 376, 346, 
+FrmMainMenu = 44, 44, 420, 390, C, 22, 22, 398, 368, C
